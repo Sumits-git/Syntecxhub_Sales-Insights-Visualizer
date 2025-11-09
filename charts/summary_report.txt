@@ -1,0 +1,13 @@
+
+===== Sales Summary Report =====
+Total Sales: INR325,018
+Best Selling Category: Electronics
+Top Month: Sep 2024
+Top Quarter: 2024Q2
+
+Chart Discussion:
+- Line charts were used for time-series trends (to show continuity over time).
+- Bar charts provide an easy comparison across discrete categories/quarters.
+- Pie charts visualize category share effectively for small category counts.
+- Axis labels, titles, and legends enhance readability and professional clarity.
+=================================
